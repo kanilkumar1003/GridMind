@@ -244,7 +244,7 @@ See `evaluation.json` for the machine-readable assessment.
 
 ## Demo Video
 
-🎬 **Watch the demo**: [YouTube Link](hhttps://youtu.be/fcVe9p9ZnV4)
+🎬 **Watch the demo**: [YouTube Link](https://youtu.be/fcVe9p9ZnV4)
 
 ---
 
