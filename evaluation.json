@@ -1,0 +1,11 @@
+{
+  "explicit_reasoning": true,
+  "structured_output": true,
+  "tool_separation": true,
+  "conversation_loop": true,
+  "instructional_framing": true,
+  "internal_self_checks": true,
+  "reasoning_type_awareness": true,
+  "fallbacks": true,
+  "overall_clarity": "The prompt defines an unambiguous 6-step reasoning chain (A-F) with tagged steps, strict JSON schema, tool separation via [TOOL_CALL] syntax, multi-turn state management, a worked Hour 10 example, mandatory energy conservation self-checks, and a complete fallback table for every tool failure. It is hallucination-resistant by forbidding invented data and anchoring all decisions to tool-returned values."
+}
